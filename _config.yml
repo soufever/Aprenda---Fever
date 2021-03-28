@@ -30,7 +30,7 @@ twitter_username: soufever
 github_username:  soufever
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
